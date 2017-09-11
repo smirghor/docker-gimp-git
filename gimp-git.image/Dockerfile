@@ -1,4 +1,4 @@
-FROM ubuntu:yakkety
+FROM ubuntu:zesty
 MAINTAINER Jaroslaw Filiochowski <jarfil@gmail.com>
 
 # compile
